@@ -16,8 +16,7 @@
 # echo "installing"
 # fi
 
-test=$(/root/test1)
-if [ $test -eq ]
+
 
 
 
