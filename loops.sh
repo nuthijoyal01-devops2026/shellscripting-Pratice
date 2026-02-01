@@ -34,3 +34,10 @@ echo "this is not jo"
 else
 ech "this is jo"
 fi
+
+for in in {1..10};do
+echo "hello world
+done
+
+
+echo "$0"
